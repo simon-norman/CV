@@ -1,8 +1,22 @@
 ###  What I'm about
 
-My passion is in improving how people live and work through technology. This led me to work in technology consultancy, product management, and finally software development, where I have discovered how fulfilling it is to engineer a product - crafting it to be elegant, flexible, and scalable. 
+My passion is in improving how people live and work through technology. This led me to work in technology consultancy, product management, and finally software development, where I have discovered how fulfilling it is to engineer a product, and write code that is elegant, flexible, and scalable. 
 
-I constantly drive to learn new technologies – for example teaching myself front and backend development (Node, Vue, Python, Mongo, various SQL technologies), TDD and BDD (using Jest, Vue Test Utils, Mocha, Sinon), continuous integration (Codeship and Github), and cloud hosting (Heroku, Firebase, AWS).
+As a next step, I’m keen to work in a fantastic team where I can deliver impactful, interesting products, and really develop my skills.
+
+### What I can bring to your team
+
+I'm very capable at solving problems, whether in my code, in the domain, or in my team. Through repeated success and (more importantly!) failure, I  
+
+With my background in product management, I'm able to quickly understand a domain and its problems, and identify the best solution. 
+
+I'm highly adaptable. I've learned the 
+
+Whilst I have a good appreciation of what makes a software project successful, I've learned that being adaptable is equally important. I've learned to continuously examine my approach, as well as that of the team, and look for improvements. 
+
+Which is the best solution? The rigorous process of understanding the problem and identifying the right solution
+
+I constantly strive to learn new technologies – for example teaching myself front and backend development (Node, Vue, Python, Mongo, various SQL technologies), TDD and BDD (using Jest, Vue Test Utils, Mocha, Sinon), continuous integration (Codeship and Github), and cloud hosting (Heroku, Firebase, AWS).
 
 I strive to write clean, loosely-coupled, and flexible components, by reading up on best practices (e.g. Clean Code, Node JS Design Patterns, The Way of the Web Tester) and organising code reviews. All of my apps have unit and end-to-end tests (Nightwatch), built into continuous integration pipelines with staging environments. 
 
@@ -40,7 +54,7 @@ As a next step, I’m keen to work in a fantastic team where I can deliver and m
 **Activity:** Implementing Agile practices into interior design projects – teaching designers to research user needs, test designs by reviewing them with users in VR, use stand-ups and retrospectives etc.
 
 
-**Product Owner – Media Technology Team, QVC (Jan 2014 - Nov 2016)
+**Product Owner – Media Technology Team, QVC (Jan 2014 - Nov 2016)**
 
 **Activity:** Designing new products to support creation and distribution of content
 
@@ -53,13 +67,13 @@ As a next step, I’m keen to work in a fantastic team where I can deliver and m
 
 **IT Consultant – Deloitte (Sept 2012 - Dec 2014)**
 
-**Activity:** Working on Digital Channels programme for Lloyds Banking Group, to migrate their corporate clients from the legacy online banking channels to a new strategic channel. Defining requirements for the new channel and the IT solution (ETL tool) to migrate customers, and carried out supporting SQL and Excel analysis to understand customer usage of the existing channels.
+**Activity:** Worked on Digital Channels programme for Lloyds Banking Group, to migrate their corporate clients from the legacy online banking channels to a new strategic channel. Defined requirements for the new channel and the IT solution (ETL tool) to migrate customers, and carried out supporting SQL and Excel analysis to understand customer usage of the existing channels.
 
 
 **Analyst – Investment Services Team (IST), PA Consulting (Aug 2011 - Aug 2012)**
 
-**English Teacher and Documentary Film-maker – Accra, Ghana	January – May 2007**
+**English Teacher and Documentary Film-maker – Accra, Ghana	(Jan 2007 – May 2007)**
 
-**Film Director – Transgressive North	2007 – 2010**
+**Film Director – Transgressive North	(2007 – 2010)**
 
 

@@ -1,4 +1,4 @@
-## What I'm about
+###  What I'm about
 
 My passion is in improving how people live and work through technology. This led me to work in technology consultancy, product management, and finally software development, where I have discovered how fulfilling it is to engineer a product - crafting it to be elegant, flexible, and scalable. 
 
@@ -8,9 +8,9 @@ I strive to write clean, loosely-coupled, and flexible components, by reading up
 
 As a next step, I’m keen to work in a fantastic team where I can deliver and maintain impactful, interesting products, and really develop my skills. 
 
-## What I've done
+### My experience
 
-### Web developer (and a bit of Unity) - Spacelab (January 2018 - November 2018)
+**Web developer (and a bit of Unity) - Spacelab (January 2018 - November 2018)**
 
 - **Example:** Developing analytics app which retrieves (from 3rd party API) location data of staff in a given space, then converts this into meaningful analysis for property managers, so they can see how the space is being used and adapt it to better fit the occupants’ needs.
 
@@ -27,6 +27,9 @@ As a next step, I’m keen to work in a fantastic team where I can deliver and m
 -	**Example:** Developed VR 360 photo app (Unity) for interior designers, enabling them to present their designs in VR to a whole group simultaneously. 
 
 -	**Impact:** Used with one client so far, enabled them to collectively experience and discuss the design in VR, which resulted in a much more productive discussion.
+
+Product owner – Spacelab (December 2016 - January 2018)
+
 
 
 

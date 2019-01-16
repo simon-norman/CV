@@ -56,4 +56,10 @@ As a next step, I’m keen to work in a fantastic team where I can deliver and m
 **Activity:** Working on Digital Channels programme for Lloyds Banking Group, to migrate their corporate clients from the legacy online banking channels to a new strategic channel. Defining requirements for the new channel and the IT solution (ETL tool) to migrate customers, and carried out supporting SQL and Excel analysis to understand customer usage of the existing channels.
 
 
+**Analyst – Investment Services Team (IST), PA Consulting (Aug 2011 - Aug 2012)**
+
+**English Teacher and Documentary Film-maker – Accra, Ghana	January – May 2007**
+
+**Film Director – Transgressive North	2007 – 2010**
+
 

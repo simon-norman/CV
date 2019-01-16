@@ -1,5 +1,6 @@
 ##  Why I write software
 
+
 My passion is in improving how people live and work through technology. This led me to work in technology consultancy, product management, and finally software development, where I have discovered how fulfilling it is to engineer a product, and write code that is elegant, flexible, and scalable. 
 
 As a next step, I’m keen to work in a fantastic team where I can deliver impactful, interesting products, and really develop my skills.
@@ -7,6 +8,7 @@ As a next step, I’m keen to work in a fantastic team where I can deliver impac
 
 
 ## What I can bring to your team
+
 
 I'm very capable at solving problems. With my background in consultancy and product management, I'm able to quickly understand a domain, break down and prioritise the user's problems, and identify the best and fastest route to making an impact. 
 
@@ -70,3 +72,16 @@ I strive to apply this thinking to my code. In my first six months as a develope
 **Film Director – Transgressive North	(2007 – 2010)**
 
 
+## Education
+
+**Scrum Alliance (2015):** Received Scrum Master and Agile Business Analysis certifications
+
+**British Computer Society	(2012 – 2013)**
+
+ - Diploma in Business Analysis: Requirements Engineering, Business Analysis Practice and IT Business Change
+ 
+ - Diploma in Solution Development: Systems Development, Software Testing and Systems Modelling
+ 
+**Chartered Institute of Management Accountants	2012:** Qualification in Business Mathematics
+
+**King’s College London	2007 – 2010:** BA (Honours) History – 2:1 (overall grade BA)

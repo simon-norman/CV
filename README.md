@@ -1,4 +1,4 @@
-###  What I'm about
+###  Why I write software
 
 My passion is in improving how people live and work through technology. This led me to work in technology consultancy, product management, and finally software development, where I have discovered how fulfilling it is to engineer a product, and write code that is elegant, flexible, and scalable. 
 

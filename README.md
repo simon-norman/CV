@@ -14,11 +14,11 @@ As a next step, I’m keen to work in a fantastic team where I can deliver and m
 
 **Example**: Developing new analytics app which pulls location data of user devices, then converts this into meaningful analysis for property managers, so they can see how the space is being used and adapt it to better fit the occupants’ needs. Using Node, Express, Vue, Mongo. 
 
-Impact: Components to pull, clean, and store location data completed.
+**Impact**: Components to pull, clean, and store location data completed.
 
-Example: Cost predictor to be used by construction teams to quickly provide estimates to clients. The user inputs a set of parameters about the project, and the predictor provides a prediction by comparing those against historic data from completed projects. Developed frontend (Vue) and API (Python - Flask) to query the machine learning model (developed by our data scientist). 
+**Example**: Cost predictor to be used by construction teams to quickly provide estimates to clients. The user inputs a set of parameters about the project, and the predictor provides a prediction by comparing those against historic data from completed projects. Developed frontend (Vue) and API (Python - Flask) to query the machine learning model (developed by our data scientist). 
 
-Impact: App developed and demoed to quantity surveyors, contractors, and architects, who are keen to use it once there is sufficient historic data. We are seeking a partner to help us secure this. 
+**Impact**: App developed and demoed to quantity surveyors, contractors, and architects, who are keen to use it once there is sufficient historic data. We are seeking a partner to help us secure this. 
 
 
 

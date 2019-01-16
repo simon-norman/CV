@@ -1,4 +1,4 @@
-## Simon Norman CV
+## What I'm about
 
 My passion is in improving how people live and work through technology. This led me to work in technology consultancy, product management, and finally software development, where I have discovered how fulfilling it is to engineer a product - crafting it to be elegant, flexible, and scalable. 
 
@@ -8,7 +8,7 @@ I strive to write clean, loosely-coupled, and flexible components, by reading up
 
 As a next step, I’m keen to work in a fantastic team where I can deliver and maintain impactful, interesting products, and really develop my skills. 
 
-## Experience
+## What I've done
 
 ### Web developer (and a bit of Unity) - Spacelab (January 2018 - November 2018)
 

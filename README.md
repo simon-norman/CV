@@ -12,6 +12,8 @@ As a next step, I’m keen to work in a fantastic team where I can deliver and m
 
 **Web developer (and a bit of Unity) - Spacelab (January 2018 - November 2018)**
 
+**Activity:** Developing new web and Unity apps
+
 - **Example:** Developing analytics app which retrieves (from 3rd party API) location data of staff in a given space, then converts this into meaningful analysis for property managers, so they can see how the space is being used and adapt it to better fit the occupants’ needs.
 
 - **Impact:** App completed and tested live at Spacelab.
@@ -20,15 +22,18 @@ As a next step, I’m keen to work in a fantastic team where I can deliver and m
 
 - **Impact:** App developed and demoed to quantity surveyors, contractors, and architects, who are keen to use it once there is sufficient historic data.
 
--	**Example:** Developed “SnapSpace” app for interior design team at Spacelab. Our clients’ staff use it to take photos of their space, add comments, and send them to us. Using Node, Express, Vue, Mongo.
-
--	**Impact:** The app has enabled us to gather richer data, with more context, about how clients’ spaces are used and the problems they encounter. 
-
 -	**Example:** Developed VR 360 photo app (Unity) for interior designers, enabling them to present their designs in VR to a whole group simultaneously. 
 
--	**Impact:** Used with one client so far, enabled them to collectively experience and discuss the design in VR, which resulted in a much more productive discussion.
+-	**Impact:** Enabled clients who used it to collectively experience and discuss the design in VR, which resulted in a much more productive discussion.
 
 Product owner – Spacelab (December 2016 - January 2018)
+
+Activity: Designing new products to support Spacelab team
+
+-	**Example:** Designed and led delivery for new presentation web app, where the team could upload their research data on how the client’s office was being used into the app and send link to the client
+
+-	**Impact:** Significantly reduced the manual effort involved in producing analytics presentations (e.g. in InDesign) and provided an improved client experience over circulating documents
+
 
 
 

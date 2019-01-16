@@ -8,13 +8,15 @@ I strive to write clean, loosely-coupled, and flexible components, by reading up
 
 As a next step, I’m keen to work in a fantastic team where I can deliver and maintain impactful, interesting products, and really develop my skills. 
 
+
+
 ### My experience
 
 **Web Developer - Spacelab (Jan 2018 - Nov 2018)**
 
 **Activity:** Developing new web and Unity apps
 
-- **Example:** Developing analytics app which retrieves (from 3rd party API) location data of staff in a given space, then converts this into meaningful analysis for property managers, so they can see how the space is being used and adapt it to better fit the occupants’ needs.
+- **Example:** Developed analytics app which retrieves (from 3rd party API) location data of staff in a given space, then converts this into meaningful analysis for property managers, so they can see how the space is being used and adapt it to better fit the occupants’ needs.
 
 - **Impact:** App completed and tested live at Spacelab.
 
@@ -26,6 +28,7 @@ As a next step, I’m keen to work in a fantastic team where I can deliver and m
 
 -	**Impact:** Enabled clients who used it to collectively experience and discuss the design in VR, which resulted in a much more productive discussion.
 
+
 **Product Owner – Spacelab (Dec 2016 - Jan 2018)**
 
 **Activity:** Designing new products to support Spacelab team
@@ -34,10 +37,18 @@ As a next step, I’m keen to work in a fantastic team where I can deliver and m
 
 -	**Impact:** Significantly reduced the manual effort involved in producing analytics presentations (e.g. in InDesign) and provided an improved client experience over circulating documents
 
+**Activity:** Implementing Agile practices into interior design projects – teaching designers to research user needs, test designs by reviewing them with users in VR, use stand-ups and retrospectives etc.
 
 
+**Product Owner – Media Technology Team, QVC (Jan 2014 - Nov 2016)
 
+**Activity:** Designing new products to support creation and distribution of content
 
+-	**Example:** Defined global strategy for on-screen graphics, to replace the different systems used by the seven QVC markets with a new graphics preparation and playout solution across all channels. 
+
+-	**Impact:** As well as replacing end-of-life applications and providing key new graphics features, the common code base and single development team will enable much faster delivery of new features.
+
+**Activity:** Reorganising team’s dev ops and project management processes - in particular leading the implementation of Scrum into the team and reorganising the project planning process.
 
 
 

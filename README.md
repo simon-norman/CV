@@ -1,9 +1,7 @@
 ##  Why I write software
 
 
-My passion is in improving how people live and work through technology. This led me to work in technology consultancy, product management, and finally software development, where I have discovered how fulfilling it is to engineer a product, and write code that is elegant, flexible, and scalable. 
-
-As a next step, I’m keen to work in a fantastic team where I can deliver impactful, interesting products, and really develop my skills.
+My passion is in improving how people live and work through technology. This led me to work in technology consultancy, product management, and engineering, where I have discovered how fulfilling it is to craft a product, and write code that is elegant, flexible, and scalable. 
 
 
 
@@ -15,6 +13,12 @@ I'm very capable at solving problems. With my background in consultancy and prod
 Whilst I've learned many good project practices and toolsets, my most valuable asset is an agile mindset. I've learned to continously inspect our (my team's) approach and work with them to identify improvements. I can readily adopt new practices and adapt existing ones. I can challenge current thinking where appropriate, and I welcome challenges from others. 
 
 I strive to apply this thinking to my code. In my first six months as a developer, I taught myself Node, Vue, Python and Mongo, and learned and implemented BDD (Mocha, Vue Test Utils), continous integration (Codeship), and cloud hosting (Heroku, Firebase, AWS). I read up on best practices (e.g. Clean Code, Node JS Design Patterns, The Way of the Web Tester) and found an online mentor to review my code. 
+
+
+
+## What I'm looking for in my next role
+
+A fantastic team where I can deliver impactful, interesting products, and really develop my skills. 
 
 
 

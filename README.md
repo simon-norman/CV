@@ -6,23 +6,11 @@ As a next step, I’m keen to work in a fantastic team where I can deliver impac
 
 ### What I can bring to your team
 
-I'm very capable at solving problems, whether in my code, in the domain, or in my team. Through repeated success and (more importantly!) failure, I  
+I'm very capable at solving problems. With my background in consultancy and product management, I'm able to quickly understand a domain, break down and prioritise the user's problems, and identify the best and fastest route to making an impact. 
 
-With my background in product management, I'm able to quickly understand a domain and its problems, and identify the best solution. 
+Whilst I've learned many good project practices and toolsets, my most valuable asset is an agile mindset. I've learned to continously inspect our (my team's) approach and work with them to identify improvements. I can readily adopt new practices and adapt existing ones. I can challenge current thinking where appropriate, and I welcome challenges from others. 
 
-I'm highly adaptable. I've learned the 
-
-Whilst I have a good appreciation of what makes a software project successful, I've learned that being adaptable is equally important. I've learned to continuously examine my approach, as well as that of the team, and look for improvements. 
-
-Which is the best solution? The rigorous process of understanding the problem and identifying the right solution
-
-I constantly strive to learn new technologies – for example teaching myself front and backend development (Node, Vue, Python, Mongo, various SQL technologies), TDD and BDD (using Jest, Vue Test Utils, Mocha, Sinon), continuous integration (Codeship and Github), and cloud hosting (Heroku, Firebase, AWS).
-
-I strive to write clean, loosely-coupled, and flexible components, by reading up on best practices (e.g. Clean Code, Node JS Design Patterns, The Way of the Web Tester) and organising code reviews. All of my apps have unit and end-to-end tests (Nightwatch), built into continuous integration pipelines with staging environments. 
-
-As a next step, I’m keen to work in a fantastic team where I can deliver and maintain impactful, interesting products, and really develop my skills. 
-
-
+I strive to apply this thinking to my code. In my first six months as a developer, I taught myself Node, Vue, Python and Mongo, and learned and implemented BDD (Mocha, Vue Test Utils), continous integration (Codeship), and cloud hosting (Heroku, Firebase, AWS). I read up on best practices (e.g. Clean Code, Node JS Design Patterns, The Way of the Web Tester) and found an online mentor to review my code. 
 
 ### My experience
 

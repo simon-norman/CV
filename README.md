@@ -12,9 +12,9 @@ As a next step, I’m keen to work in a fantastic team where I can deliver and m
 
 ### Web developer (and a bit of Unity) - Spacelab (January 2018 - November 2018)
 
-**Example**: Developing new analytics app which pulls location data of user devices, then converts this into meaningful analysis for property managers, so they can see how the space is being used and adapt it to better fit the occupants’ needs. Using Node, Express, Vue, Mongo. 
+**Example**: Developing analytics app which retrieves (from 3rd party API) location data of staff in a given space, then converts this into meaningful analysis for property managers, so they can see how the space is being used and adapt it to better fit the occupants’ needs. Using Node, Express, Vue, Mongo. 
 
-**Impact**: Components to pull, clean, and store location data completed.
+**Impact**: App completed and tested live at Spacelab.
 
 **Example**: Cost predictor to be used by construction teams to quickly provide estimates to clients. The user inputs a set of parameters about the project, and the predictor provides a prediction by comparing those against historic data from completed projects. Developed frontend (Vue) and API (Python - Flask) to query the machine learning model (developed by our data scientist). 
 

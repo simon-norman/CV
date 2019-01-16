@@ -18,7 +18,8 @@ I strive to apply this thinking to my code. In my first six months as a develope
 
 ## My experience
 
-**Web Developer - Spacelab (Jan 2018 - Nov 2018)**
+
+### Web Developer - Spacelab (Jan 2018 - Nov 2018)
 
 **Activity:** Developing new web and Unity apps
 
@@ -35,7 +36,7 @@ I strive to apply this thinking to my code. In my first six months as a develope
 -	**Impact:** Enabled clients who used it to collectively experience and discuss the design in VR, which resulted in a much more productive discussion.
 
 
-**Product Owner – Spacelab (Dec 2016 - Jan 2018)**
+### Product Owner – Spacelab (Dec 2016 - Jan 2018)
 
 **Activity:** Designing new products to support Spacelab team
 
@@ -46,7 +47,7 @@ I strive to apply this thinking to my code. In my first six months as a develope
 **Activity:** Implementing Agile practices into interior design projects – teaching designers to research user needs, test designs by reviewing them with users in VR, use stand-ups and retrospectives etc.
 
 
-**Product Owner – Media Technology Team, QVC (Jan 2014 - Nov 2016)**
+### Product Owner – Media Technology Team, QVC (Jan 2014 - Nov 2016)
 
 **Activity:** Designing new products to support creation and distribution of content
 
@@ -57,7 +58,7 @@ I strive to apply this thinking to my code. In my first six months as a develope
 **Activity:** Reorganising team’s dev ops and project management processes - in particular leading the implementation of Scrum into the team and reorganising the project planning process.
 
 
-**IT Consultant – Deloitte (Sept 2012 - Dec 2014)**
+### IT Consultant – Deloitte (Sept 2012 - Dec 2014)
 
 **Activity:** Worked on Digital Channels programme for Lloyds Banking Group, to migrate their corporate clients from the legacy online banking channels to a new strategic channel. Defined requirements for the new channel and the IT solution (ETL tool) to migrate customers, and carried out supporting SQL and Excel analysis to understand customer usage of the existing channels.
 

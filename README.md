@@ -27,7 +27,7 @@ I strive to apply this thinking to my code. In my first six months as a develope
 
 - **Impact:** App completed and tested live at Spacelab.
 
-- **Example:** Cost predictor to be used by construction teams to quickly provide estimates to clients. The user inputs a set of parameters about the project, and the predictor provides a prediction by comparing those against historic data from completed projects. Developed frontend (Vue) and API (Python - Flask) to query the machine learning model (developed by our data scientist). 
+- **Example:** Cost predictor to be used by construction teams to quickly provide estimates to clients, by using historic data from completed projects to make predictions. Developed frontend and api to query the machine learning model.
 
 - **Impact:** App developed and demoed to quantity surveyors, contractors, and architects, who are keen to use it once there is sufficient historic data.
 

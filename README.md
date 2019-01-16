@@ -10,7 +10,7 @@ As a next step, I’m keen to work in a fantastic team where I can deliver and m
 
 ### My experience
 
-**Web developer (and a bit of Unity) - Spacelab (January 2018 - November 2018)**
+**Web Developer - Spacelab (Jan 2018 - Nov 2018)**
 
 **Activity:** Developing new web and Unity apps
 
@@ -26,9 +26,9 @@ As a next step, I’m keen to work in a fantastic team where I can deliver and m
 
 -	**Impact:** Enabled clients who used it to collectively experience and discuss the design in VR, which resulted in a much more productive discussion.
 
-Product owner – Spacelab (December 2016 - January 2018)
+**Product Owner – Spacelab (Dec 2016 - Jan 2018)**
 
-Activity: Designing new products to support Spacelab team
+**Activity:** Designing new products to support Spacelab team
 
 -	**Example:** Designed and led delivery for new presentation web app, where the team could upload their research data on how the client’s office was being used into the app and send link to the client
 

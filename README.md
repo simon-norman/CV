@@ -16,7 +16,7 @@ As a next step, I’m keen to work in a fantastic team where I can deliver and m
 
 **Activity:** Developing new web and Unity apps
 
-- **Example:** Developed analytics app which retrieves (from 3rd party API) location data of staff in a given space, then converts this into meaningful analysis for property managers, so they can see how the space is being used and adapt it to better fit the occupants’ needs.
+- **Example:** Developed analytics app which retrieves (from 3rd party API) location data of staff in a given space, then converts this into analysis for property managers, so they can see how the space is being used and adapt it to better fit the occupants’ needs.
 
 - **Impact:** App completed and tested live at Spacelab.
 
@@ -49,6 +49,11 @@ As a next step, I’m keen to work in a fantastic team where I can deliver and m
 -	**Impact:** As well as replacing end-of-life applications and providing key new graphics features, the common code base and single development team will enable much faster delivery of new features.
 
 **Activity:** Reorganising team’s dev ops and project management processes - in particular leading the implementation of Scrum into the team and reorganising the project planning process.
+
+
+**IT Consultant – Deloitte (Sept 2012 - Dec 2014)
+
+**Activity:** Working on Digital Channels programme for Lloyds Banking Group, to migrate their corporate clients from the legacy online banking channels to a new strategic channel. Defining requirements for the new channel and the IT solution (ETL tool) to migrate customers, and carried out supporting SQL and Excel analysis to understand customer usage of the existing channels.
 
 
 

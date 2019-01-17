@@ -13,11 +13,13 @@ I'm now looking for a fantastic team where I can deliver impactful, interesting 
 ## What I can bring to your team
 
 
-I'm very capable at solving problems. With my background in consultancy and product management, I'm able to quickly understand a domain, break down and prioritise the user's problems, and identify the best and fastest route to making an impact. 
+**Problem solving**: With my background in consultancy and product management, I'm able to quickly understand a domain, break down and prioritise the user's problems, and identify the best and fastest route to making an impact. 
 
-Whilst I've learned many good project practices and toolsets, my most valuable asset is an agile mindset. I've learned to continously inspect our (my team's) approach and work with them to identify improvements. I can readily adopt new practices and adapt existing ones. I can challenge current thinking where appropriate, and I welcome challenges from others. 
+**An agile mindset:** I've learned to continously inspect our (my team's) approach and work with them to identify improvements. I can readily adopt new practices and adapt existing ones. I can challenge existing thinking, and welcome challenges from others. 
 
 I strive to apply this thinking to my code. In my first six months as a developer, I taught myself Node, Vue, Python and Mongo, and learned and implemented BDD (Mocha, Vue Test Utils), continous integration (Codeship), and cloud hosting (Heroku, Firebase, AWS). I read up on best practices (e.g. Clean Code, Node JS Design Patterns, The Way of the Web Tester) and found an online mentor to review my code. 
+
+**Excellent communicator**: 
 
 
 

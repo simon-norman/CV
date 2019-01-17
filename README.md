@@ -14,7 +14,7 @@ I'm now looking for a fantastic team where I can deliver impactful, interesting 
 
 **Development experience:** I switched to development in my previous role at Spacelab and, being a quick learner, was able to respond to various business needs that required different solutions. For example, when building the Workplace Intelligence Platform, I learned how to create web services and both RESTful and Graph QL apis. When developing Fourth Wall, I had to work with Unity and C#.
 
-By finding an online mentor to review my code and experimenting with different tools and practices, I improved my application of them. I rigorously looked for improvements in the code, with help from various books on good practice (e.g. 'Clean Code', 'Node JS Design Patterns', 'The Way of the Web Tester').
+By finding an online mentor to review my code and experimenting with different tools and practices, I improved my application of them. I rigorously looked for improvements in the code, with help from various books on good practice (e.g. 'Clean Code', 'Node JS Design Patterns', 'The Way of the Web Tester'). And whilst of course I'm still at the start of my journey as a developer, I'm now confident that I have the right mindset to make great software. 
 
 **Problem solving**: With my background in consultancy and product management, I'm able to quickly understand a domain, break down and prioritise the user's problems, and identify the best and fastest route to making an impact. 
 

@@ -12,14 +12,15 @@ I'm now looking for a fantastic team where I can deliver impactful, interesting 
 
 ## What I can bring to your team
 
+**Development experience:** I switched to development in my previous role at Spacelab and, being a quick learner, was able to respond to various business needs that required different solutions. For example, when building the Workplace Intelligence Platform, I learned how to create web services and both RESTful and Graph QL apis. When developing Fourth Wall, I had to work with Unity and C#.
+
+By experimenting with different practices and finding an online mentor to review my code, I learned how to best 
 
 **Problem solving**: With my background in consultancy and product management, I'm able to quickly understand a domain, break down and prioritise the user's problems, and identify the best and fastest route to making an impact. 
 
 **An agile mindset:** I've learned to continously inspect our (my team's) approach and work with them to identify improvements. I can readily adopt new practices and adapt existing ones. I can challenge existing thinking, and welcome challenges from others. 
 
 I strive to apply this thinking to my code. In my first six months as a developer, I taught myself Node, Vue, Python and Mongo, and learned and implemented BDD (Mocha, Vue Test Utils), continous integration (Codeship), and cloud hosting (Heroku, Firebase, AWS). I read up on best practices (e.g. Clean Code, Node JS Design Patterns, The Way of the Web Tester) and found an online mentor to review my code. 
-
-**Excellent communicator**: 
 
 
 

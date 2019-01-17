@@ -18,9 +18,7 @@ By finding an online mentor to review my code and experimenting with different t
 
 **Problem solving**: With my background in consultancy and product management, I'm able to quickly understand a domain, break down and prioritise the user's problems, and identify the best and fastest route to making an impact. 
 
-**An agile mindset:** I've learned to continously inspect our (my team's) approach and work with them to identify improvements. I can readily adopt new practices and adapt existing ones. I can challenge existing thinking, and welcome challenges from others. 
-
-I strive to apply this thinking to my code. In my first six months as a developer, I taught myself Node, Vue, Python and Mongo, and learned and implemented BDD (Mocha, Vue Test Utils), continous integration (Codeship), and cloud hosting (Heroku, Firebase, AWS). I read up on best practices (e.g. Clean Code, Node JS Design Patterns, The Way of the Web Tester) and found an online mentor to review my code. 
+**An agile mindset:** I've learned to continously inspect our (my team's) approach and work with them to identify improvements. I can readily adopt new practices and adapt existing ones. I can challenge existing thinking, and welcome challenges from others. Whilst at QVC for example, I led the implementation of Scrum into our team, with my manager noting that project delivery speed had improved significantly as a result.  
 
 
 
